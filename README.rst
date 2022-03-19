@@ -17,7 +17,7 @@ Raw:
 
 .. code-block:: bash
 
-    git clone https://github.com/Nextdoor/alphabot.git
+    git clone https://github.com/Nextdoor/alphabot.githttps://github.com/Alpahawabot/Alpaha
     cd alphabot
     pip install -e .
     
